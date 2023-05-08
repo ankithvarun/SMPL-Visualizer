@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dat.gui": "^0.7.9",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.5"
+  }
+}
