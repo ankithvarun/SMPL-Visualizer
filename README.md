@@ -1,6 +1,6 @@
-# CV-Proj-DensePose
+# SMPL Visualizer
 
-# Setup - SMPL Visualizer
+# Setup
 In the `SMPL` directory,
 
 To run the backend server
